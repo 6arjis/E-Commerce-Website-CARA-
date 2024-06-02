@@ -35,10 +35,6 @@ Coupon Code Integration: Apply discount codes to reduce your total cost.
 Checkout Process: Proceed to a secure checkout process to complete your purchase (backend functionality to be implemented).
 Getting Started:
 
-Clone the Repository: Use git clone https://github.com/your-username/cara-ecommerce.git to clone this repository to your local machine.
-Set Up Dependencies: Install any necessary dependencies using a package manager like npm (instructions may be provided within the code).
-Run the Website: Follow the instructions (if any) to launch the website locally using a web server like Live Server or simply opening index.html in your browser.
-Backend Integration (Optional):
 
 This repository primarily focuses on the frontend development of Cara. While some basic backend functionality (e.g., form submission) might be included, more advanced features like secure user accounts, product databases, and payment processing will require additional backend development using technologies like Node.js, Python, or PHP. There may be notes or placeholders within the code to guide further backend implementation.
 
